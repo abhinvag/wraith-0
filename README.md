@@ -1,12 +1,10 @@
-## Hi <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Abhinav
+## Hi there! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Abhinav
 
 ### I am a Full Stack Web Developer
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" height="320" frameBorder="0" class="giphy-embed"></img>
+- 🚀 I like to build products
 
 <a href="https://navabhi.codes/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https://navabhi.codes/"/></a>
-
-<hr/>
 
 ## Tech Stack
 
@@ -28,16 +26,12 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 </p>
 
-<hr/>
-
 ## Github Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wraith-0&theme=radical&hide_title=truecount_private=true&show_icons=true" height="200em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith-0&theme=radical" height="200em" />
 <p>
-
-<hr/>
 
 ## Socials
 
