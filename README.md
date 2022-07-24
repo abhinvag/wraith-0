@@ -1,12 +1,10 @@
-## Hi there! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Abhinav
+# Hi there! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Abhinav
 
-### I am a Full Stack Web Developer
+# About Me
 
-🚀 I like to build products
+🔭 I am a Full Stack Web Developer <br /> 🚀 I Like to Build Products
 
-<a href="https://navabhi.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https://navabhi.netlify.app/"/></a>
-
-## Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25"/>
@@ -32,20 +30,20 @@
 
 </p>
 
-## Github Stats
+# Github Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wraith-0&theme=radical&hide_title=truecount_private=true&show_icons=true" height="200em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith-0&theme=radical" height="200em" />
 <p>
 
-## Leetcode Stats
+# Leetcode Stats
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/navabhi__?theme=nord&font=Cairo&ext=contest" />
 </p>
 
-## Socials
+# Socials
 
 <p align="center">
 <a href="mailto:19ucs254@lnmiit.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
@@ -53,3 +51,7 @@
 <a href="https://mobile.twitter.com/navabhi__"><img src="https://img.shields.io/badge/navabhi__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a href="https://leetcode.com/navabhi__/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
 </p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=wraith-0&icon=0&color=0)](https://visitcount.itsvg.in)
